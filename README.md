@@ -118,11 +118,8 @@ Copy `.env.sample` to `.env` and update the following variables with your local 
 
 ## 5. Execution Samples
 
-*Note: Intermediate `global_*.mp4` files are omitted for brevity.*
-
-
-
-| Input (Original) | Output (Processed & Stabilized) |
+*Input (Original) on the left, Output (Processed & Stabilized) on the right.
+https://github.com/user-attachments/assets/9735ee90-0748-4327-97fd-1367d398c19a
 
 | :--- | :--- |
 

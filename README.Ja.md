@@ -140,13 +140,6 @@ CMOSセンサー特有の、高速移動時に発生する垂直方向の歪み�
 
 ## 5. 実行サンプル
 
-途中のglobal_*.mp4のファイルの出力は省略しています。
-
-| Input (Original) | Output (Processed & Stabilized) |
-
-| :--- | :--- |
-
-| <video src="original01.mp4" controls muted width="400"></video> | <video src="stabilized01.mp4" controls muted width="400"></video> |
-
-
+* **入寮動画を左に、処理後の出力動画を右に対比して再生しています。
+[比較動画の再生](https://github.com/user-attachments/assets/9735ee90-0748-4327-97fd-1367d398c19a)
 

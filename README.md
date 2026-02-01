@@ -118,6 +118,6 @@ Copy `.env.sample` to `.env` and update the following variables with your local 
 
 ## 5. Execution Samples
 
-* **Input (Original) on the left, Output (Processed & Stabilized) on the right.
+* Input (Original) on the left, Output (Processed & Stabilized) on the right.
 
 [Play Movie](https://github.com/user-attachments/assets/9735ee90-0748-4327-97fd-1367d398c19a)

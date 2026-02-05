@@ -2,7 +2,7 @@
 
 
 
-## 1. Motivation
+## * Motivation
 
 I realized that footage captured with toy drones or lightweight drones (under 100g) was often too shaky to enjoy or use effectively. While looking for a solution, I discovered the concept of "Video Stabilization" through the following resources:
 
@@ -20,7 +20,14 @@ After building a prototype to verify the functionality, I was amazed by its effe
 
 I developed this code using an "Antigravity" agent to handle both camera stabilization and the rolling shutter distortion typical of inexpensive CMOS sensors. I am sharing it here for others to use.
 
+---
 
+
+## * Execution Samples
+
+* Input (Original) on the left, Output (Processed & Stabilized) on the right.
+
+[Play Movie](https://github.com/user-attachments/assets/9735ee90-0748-4327-97fd-1367d398c19a)
 
 ---
 
@@ -113,11 +120,3 @@ Copy `.env.sample` to `.env` and update the following variables with your local 
 * **INPUT_DIR**: Path to the folder containing your source videos.
 
 * **OUTPUT_DIR**: Path where the processed videos will be saved.
-
-
-
-## 5. Execution Samples
-
-* Input (Original) on the left, Output (Processed & Stabilized) on the right.
-
-[Play Movie](https://github.com/user-attachments/assets/9735ee90-0748-4327-97fd-1367d398c19a)
